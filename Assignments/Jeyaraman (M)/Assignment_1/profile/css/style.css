@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    height: 100vh;
+    width: 100vw;
+    background-color: aliceblue;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h2{
+    margin-top: 15px;
+}
+p{
+    padding: 5px;
+}
+img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    padding-top: 35px;
+}
+.box{
+    background-color: rgb(29, 202, 52);
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+}
+.box h3{
+    padding: 15px;
+    font-size: 30px;
+}
+.box p{
+    text-align: center;
+}

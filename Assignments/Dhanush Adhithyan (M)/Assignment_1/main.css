@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(14, 91, 207);
+}
+
+.title{
+    text-align: center;
+}
+
+.photo{
+    margin-left: 820px;
+    margin-top: 100px;
+    border-radius: 50%;
+    max-width: 100%;
+}
+
+.box{
+    margin-left: 705px;
+    background-color: rgb(224, 216, 220);
+    width: 450px;
+    height: 100px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.text{
+    color: rgb(7, 11, 15);
+}
